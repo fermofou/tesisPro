@@ -1,2 +1,0 @@
-# tesisPro
-Proyecto web 
